@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background: url('images/im2.jpg') no-repeat center center fixed;
+  background: url('im2.jpg') no-repeat center center fixed;
 
   background-size: cover;
   color: #000;
@@ -189,7 +189,7 @@ body {
 }
 
 body.dark {
-  background: url('images/im2.jpg') no-repeat center center fixed;
+  background: url('im2.jpg') no-repeat center center fixed;
   background-size: cover;
   color: #f0f0f0;
 }
